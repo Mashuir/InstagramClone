@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">InstagramClone</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="mashuir">Mashuir</string>
+    <string name="i_live_in_mirzagong_patuakhali">I Live In Mirzagong , Patuakhali</string>
+    <string name="http_scholarship_com">http://scholarship.com</string>
+    <string name="_250">250</string>
+    <string name="posts">Posts</string>
+    <string name="_300">300</string>
+    <string name="followers">Followers</string>
+    <string name="_400">400</string>
+    <string name="following">Following</string>
+    <string name="edit_your_profile">Edit your profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="options">Options</string>
+    <string name="mashuirtow">Mashuir</string>
+    <string name="menu_icon">Menu Icon</string>
 </resources>

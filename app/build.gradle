@@ -31,4 +31,6 @@ dependencies {
     //bottom navigationviewx library
     implementation 'com.github.ittianyu:BottomNavigationViewEx:1.2.4'
     implementation "com.android.support:design:26.1.0"
+    //circle imageview
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
 }
